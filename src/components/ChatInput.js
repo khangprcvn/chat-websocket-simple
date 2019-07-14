@@ -19,7 +19,11 @@ class ChatInput extends Component {
 
   render() {
     return (
-      <form className="form-inline" onSubmit={this.onSubmitMessage}>
+      <form
+        className="form-inline"
+        onSubmit={this.onSubmitMessage}
+        style={{ marginTop: '10px' }}
+      >
         <div class="form-group">
           <input
             class="form-control"
