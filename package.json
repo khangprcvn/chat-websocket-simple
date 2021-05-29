@@ -30,7 +30,7 @@
     "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^3.7.2",
     "websocket": "^1.0.29",
-    "ws": "^7.1.0"
+    "ws": "^7.4.6"
   },
   "dependencies": {
     "react": "^16.8.6",
